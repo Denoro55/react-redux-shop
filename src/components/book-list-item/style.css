@@ -1,0 +1,14 @@
+.book-list-item {
+  display: flex;
+  max-width: 800px; }
+  .book-list-item__left {
+    margin-right: 30px; }
+    .book-list-item__left img {
+      max-width: 200px; }
+  .book-list-item__author {
+    margin-bottom: 10px; }
+  .book-list-item__price {
+    font-size: 18px;
+    margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */

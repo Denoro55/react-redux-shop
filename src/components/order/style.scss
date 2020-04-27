@@ -1,0 +1,16 @@
+.order {
+    &__title {
+        margin-bottom: 40px;
+    }
+
+    &__table {
+        table {
+            width: 100%;
+
+            td, th {
+                padding: 12px;
+                border-bottom: 1px solid #ddd;
+            }
+        }
+    }
+}

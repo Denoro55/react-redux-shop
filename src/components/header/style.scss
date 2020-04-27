@@ -1,0 +1,33 @@
+.header {
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 40px;
+
+    &__container {
+        display: flex;
+        align-items: center;
+    }
+
+    &__logo {
+        a {
+            font-size: 20px;
+        }
+    }
+
+    &__right {
+        margin-left: auto;
+    }
+}
+
+.header-cart {
+    display: flex;
+    align-items: center;
+
+    i {
+        font-size: 16px;
+    }
+
+    &__content {
+        margin-left: 10px;
+    }
+}

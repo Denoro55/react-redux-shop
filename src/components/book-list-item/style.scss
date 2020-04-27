@@ -1,0 +1,21 @@
+.book-list-item {
+    display: flex;
+    max-width: 800px;
+
+    &__left {
+        margin-right: 30px;
+
+        img {
+            max-width: 200px;
+        }
+    }
+
+    &__author {
+        margin-bottom: 10px;
+    }
+
+    &__price {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+}

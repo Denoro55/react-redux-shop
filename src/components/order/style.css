@@ -1,0 +1,9 @@
+.order__title {
+  margin-bottom: 40px; }
+.order__table table {
+  width: 100%; }
+  .order__table table td, .order__table table th {
+    padding: 12px;
+    border-bottom: 1px solid #ddd; }
+
+/*# sourceMappingURL=style.css.map */

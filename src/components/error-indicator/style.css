@@ -1,4 +1,7 @@
 .error-indicator {
-  color: #FFC107; }
+  color: coral; }
+  .error-indicator i {
+    color: coral;
+    font-size: 32px; }
 
 /*# sourceMappingURL=style.css.map */
